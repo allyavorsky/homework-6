@@ -88,24 +88,3 @@ td[colspan="12"] {
 table table td {
   border: none;
 }
-
-/* tb bg */
-td.white {
-  background: white;
-}
-
-td.yellow {
-  background: yellow;
-}
-
-td.red {
-  background: red;
-}
-
-td.black {
-  background: black;
-}
-
-td.blue {
-  background: blue;
-}
